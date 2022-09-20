@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+<img src="https://catherineasquithgallery.com/uploads/posts/2021-03/1614723224_14-p-foni-dlya-raboti-14.jpg" alt="The Unlimited" width="180"/>
 <!--
 **HowkaCoder/HowkaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
