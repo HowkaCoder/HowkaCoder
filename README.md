@@ -4,7 +4,7 @@
 ## I`m  dewdne dwendwe dwedwedwe
 
 ![PhP](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
 ![PhP](https://img.shields.io/badge/-PhP-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
 
 <!--
