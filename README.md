@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-<img src="https://vpk.name/file/img/kursy-po-vvedeniyu-v-programmirovanie-1645423414.jpg" alt="The Unlimited" width="320"/> 
+<img src="https://assets3.thrillist.com/v1/image/2288339/1200x600/scale;" alt="The Unlimited" width="320"/> 
 
 ## Hello, my name is Howka and I am a website developer with over a year of experience in the IT market. I specialize in creating websites for small businesses, but I am also interested in business structures and startups. In my free time, I am a big fan of chess and enjoy playing the game.  
 
