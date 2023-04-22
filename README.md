@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=47C5FB)
 ![PhP](https://img.shields.io/badge/-PhP-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
-![Golang](https://img.shields.io/badge/-golang-090909?style=for-the-badge&logo=golang&logoColor=47C5FB)
+![Go Version](https://img.shields.io/badge/Go-v1.16-blue)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/davran_khojaniyazov)
