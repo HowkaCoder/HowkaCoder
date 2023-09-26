@@ -13,8 +13,8 @@
 ![Go Version](https://img.shields.io/badge/Go-v1.16-blue)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/davran_khojaniyazov)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/davran_khojaniyazov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/h0wka)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dauran_khojaniyazov)
 
 ### Git status :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowkaCoder)](https://github.com/HowkaCoder/github-readme-stats)
