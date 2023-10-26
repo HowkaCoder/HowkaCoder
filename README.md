@@ -2,7 +2,12 @@
 
 <img src="https://assets3.thrillist.com/v1/image/2288339/1200x600/scale;" alt="The Unlimited" width="320"/> 
 
-## Hello, my name is Howka and I am a website developer with over a year of experience in the IT market. I specialize in creating websites for small businesses, but I am also interested in business structures and startups. In my free time, I am a big fan of chess and enjoy playing the game.  
+## Greetings,
+I am Howka, a seasoned website developer with a thriving year of expertise in the dynamic IT industry. My primary focus is on crafting bespoke websites tailored to the unique needs of small businesses. However, I also have a keen interest in business structures and startups, allowing me to provide valuable insights beyond just web development.
+
+My passion for excellence extends beyond the realm of technology. In my leisure hours, I'm an avid chess enthusiast who enjoys the intellectual challenges and strategic intricacies the game offers.
+
+When it comes to project collaboration, I am always open to new opportunities. I have a proven track record of successfully delivering projects on time and exceeding client expectations. If you have a project in mind or seek to discuss potential collaborations, please feel free to reach out to me via email at YourEmail@example.com. Your ideas and requirements are valuable, and I look forward to exploring how we can transform them into reality together.
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
