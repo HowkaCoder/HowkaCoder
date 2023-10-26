@@ -1,6 +1,5 @@
 ### Hello world 👋
 
-<img src="https://assets3.thrillist.com/v1/image/2288339/1200x600/scale;" alt="The Unlimited" width="320"/> 
 
 ## Greetings,
 I am Howka, a seasoned website developer with a thriving year of expertise in the dynamic IT industry. My primary focus is on crafting bespoke websites tailored to the unique needs of small businesses. However, I also have a keen interest in business structures and startups, allowing me to provide valuable insights beyond just web development.
