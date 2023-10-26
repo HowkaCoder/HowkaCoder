@@ -6,7 +6,7 @@ I am Howka, a seasoned website developer with a thriving year of expertise in th
 
 My passion for excellence extends beyond the realm of technology. In my leisure hours, I'm an avid chess enthusiast who enjoys the intellectual challenges and strategic intricacies the game offers.
 
-When it comes to project collaboration, I am always open to new opportunities. I have a proven track record of successfully delivering projects on time and exceeding client expectations. If you have a project in mind or seek to discuss potential collaborations, please feel free to reach out to me via email at YourEmail@example.com. Your ideas and requirements are valuable, and I look forward to exploring how we can transform them into reality together.
+When it comes to project collaboration, I am always open to new opportunities. I have a proven track record of successfully delivering projects on time and exceeding client expectations. If you have a project in mind or seek to discuss potential collaborations, please feel free to reach out to me via email at dauranbekkhojaniyazov@gmail.com . Your ideas and requirements are valuable, and I look forward to exploring how we can transform them into reality together.
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
