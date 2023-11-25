@@ -14,16 +14,11 @@ When it comes to project collaboration, I am always open to new opportunities. I
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go Version](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
-
-
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![OpenSuse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -36,7 +31,6 @@ When it comes to project collaboration, I am always open to new opportunities. I
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=fb5607&color=fb5607)
 ![VsCode](https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=00509d&color=00509d) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420)
-
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F58025&color=%23F58025) 
 ![.ENV](https://img.shields.io/badge/.ENV-white?style=for-the-badge&logo=dotenv&logoColor=black&labelColor=%23ECD53F&color=%23ECD53F)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
