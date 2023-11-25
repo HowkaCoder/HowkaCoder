@@ -25,7 +25,7 @@ When it comes to project collaboration, I am always open to new opportunities. I
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaxruxtleubaev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HowkaCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
