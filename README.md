@@ -24,7 +24,7 @@ When it comes to project collaboration, I am always open to new opportunities. I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HowkaCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaxruxtleubaev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HowkaCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
