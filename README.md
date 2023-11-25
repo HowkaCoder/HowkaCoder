@@ -24,7 +24,7 @@ When it comes to project collaboration, I am always open to new opportunities. I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HowkaCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=HowkaCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
