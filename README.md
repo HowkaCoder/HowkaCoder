@@ -18,8 +18,11 @@ When it comes to project collaboration, I am always open to new opportunities. I
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/h0wka)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dauran_khojaniyazov)
 
-### Git status :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowkaCoder)](https://github.com/HowkaCoder/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shaxruxtleubaev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaxruxtleubaev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaxruxtleubaev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 **HowkaCoder/HowkaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
